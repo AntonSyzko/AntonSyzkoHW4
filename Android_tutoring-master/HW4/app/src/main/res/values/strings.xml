@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Add</string>
+    <string name="action_apply">Apply</string>
+</resources>
